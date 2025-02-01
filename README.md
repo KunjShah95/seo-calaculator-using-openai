@@ -34,7 +34,7 @@ npm install
 # Start the application
 npm start
 ```
-![image](https://github.com/user-attachments/assets/dfdd44d3-6809-4c06-84b2-b44882b865a2)
+![image](https://github.com/user-attachments/assets/a127cf82-6a79-4799-8eb5-3f66f8858276)
 📋 Usage
 Clone the repository.
 Install the necessary dependencies.
