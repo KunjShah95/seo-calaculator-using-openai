@@ -35,30 +35,54 @@ npm install
 npm start
 ```
 ![image](https://github.com/user-attachments/assets/a127cf82-6a79-4799-8eb5-3f66f8858276)
+
 📋 Usage
+
 Clone the repository.
+
 Install the necessary dependencies.
+
 Start the application.
+
 Enter your website URL to get SEO analysis and recommendations.
+
 📈 Additional Features
+
 User-friendly Interface: Simple and intuitive interface for easy navigation.
+
 Custom Reports: Generate custom reports tailored to your needs.
+
 Integration with Analytics Tools: Integrate with popular analytics tools like Google Analytics.
+
 Mobile Friendly: Fully responsive design to work on all devices.
+
 🔮 Future Updates
+
 AI-Driven Insights: Implement AI-driven insights for more accurate recommendations.
+
 Multilingual Support: Add support for multiple languages.
+
 Advanced Reporting: Develop advanced reporting features with more detailed metrics.
+
 API Integration: Provide API integration for seamless data exchange.
+
 🤝 Contributing
-We welcome contributions to make this project even better! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+We welcome contributions to make this project even better! 
+If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
 
 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
+
 📧 Contact
+
 For any inquiries or questions, feel free to contact us:
 
+
 GitHub: KunjShah95
+
 Made with 💖 by KunjShah95
